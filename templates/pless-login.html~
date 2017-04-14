@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+<div class="panel panel-default">
+  <div class="panel-body">
+  	content
+  </div>
+</div>
+
+{% block page_content %}
+{% endblock %}
